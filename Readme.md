@@ -9,4 +9,4 @@ The colors are taken from the array, the mouseover and mouseleave listeners are 
 Просто доска с разноцветными клетками следующими за курсором. В будущем переделаю в игру змейку.
 Цвета берутся из массива, на сегменты навешаны слушатели mouseover и mouseleave.
 
-<img src="https://i.ibb.co/P4Zkxn3/bandicam-2021-06-16-11-02-45-682-online-video-cutter-com.gif" width="80%">
+<img src="https://i.ibb.co/P4Zkxn3/bandicam-2021-06-16-11-02-45-682-online-video-cutter-com.gif" width="45%">
